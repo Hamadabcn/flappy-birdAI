@@ -1,3 +1,4 @@
+https://github.com/user-attachments/assets/badf1f37-0e58-4a20-a00d-ea4c8a544fec
 # Flappy Bird AI with NEAT
 This repository contains a Flappy Bird game simulation where the bird is controlled by neural networks evolved using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm. The objective is to evolve AI agents to master the game and achieve high scores.
 
