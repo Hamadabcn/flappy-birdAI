@@ -17,8 +17,8 @@ In this project, we use NEAT to train neural networks that play Flappy Bird. The
 
 # Installation
 1. Clone the Repository: git clone https://github.com/Hamadabcn/flappy-birdAI.git
-cd flappy-birdAI
-2. Install Dependencies: pip install pygame neat-python
+2. cd flappy-birdAI
+3. Install Dependencies: pip install pygame neat-python
 
 # Configuration
 The NEAT algorithm's behavior is controlled via the config.txt file. This file contains parameters that influence the training process, including fitness criteria, population size, and mutation rates.
